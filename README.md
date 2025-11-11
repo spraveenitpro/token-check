@@ -1,4 +1,4 @@
-# Token Counter
+# Token Check
 
 A unified Python utility for counting tokens across multiple LLM providers: OpenAI, Anthropic (Claude), and Google (Gemini).
 
